@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>SPIGOT</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.spigotmc:spigot-api:1.11.2-R0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: junit:junit:4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest-core:1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:17.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.2.4" level="project" />
+    <orderEntry type="library" name="Maven: org.avaje:ebean:2.8.1" level="project" />
+    <orderEntry type="library" name="Maven: javax.persistence:persistence-api:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.17" level="project" />
+    <orderEntry type="library" name="Maven: net.md-5:bungeecord-chat:1.10-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: net.milkbowl.vault:Vault:1.6.6" level="project" />
+    <orderEntry type="library" name="Maven: org.black_ixx:PlayerPoints:2.1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.black_ixx:PlayerPoints-RcVersion:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: lk.vexview:VexView:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: lk.vexview:PlaceholderAPI:2.10.4" level="project" />
+    <orderEntry type="library" name="Maven: lk.vexview:LocaleLanguageAPI:1.1.1" level="project" />
+  </component>
+</module>
